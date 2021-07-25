@@ -1,2 +1,2 @@
-# hover-effect
-<img src="hover.png" width="400" alt="">                    
+# Hover-Board
+<img src="hover.png" width="400"  align="center" alt="">                    
